@@ -1,1 +1,1 @@
-# DB-Scheme-Postal-Operator Для перегляду схеми потрібно імпортувати файл в 
+# DB-Scheme-Postal-Operator. Для перегляду схеми потрібно імпортувати файл db scheme.drawio насайті: https://app.diagrams.net/
